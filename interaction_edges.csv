@@ -1,0 +1,216 @@
+source,target,weight,type,directed
+MrBeast,Karl,1,direct_mention,True
+MrBeast,Mark Rober,1,direct_mention,True
+MrBeast,Corpse Husband,1,direct_mention,True
+MrBeast,Vikkstar123,1,direct_mention,True
+MrBeast,Miniminter,1,direct_mention,True
+MrBeast,KSI,1,direct_mention,True
+MrBeast,TBJZL,1,direct_mention,True
+MrBeast,Zerkaa,1,direct_mention,True
+MrBeast,Behzinga,1,direct_mention,True
+MrBeast,W2S,1,direct_mention,True
+MrBeast,Sykkuno,1,direct_mention,True
+MrBeast,PewDiePie,1,direct_mention,True
+MrBeast,Valkyrae,1,direct_mention,True
+MrBeast,Dream,1,direct_mention,True
+MrBeast,GeorgeNotFound,1,direct_mention,True
+MrBeast,Sapnap,1,direct_mention,True
+MrBeast,TommyInnit,1,direct_mention,True
+MrBeast,Wilbur Soot,1,direct_mention,True
+MrBeast,Quackity,1,direct_mention,True
+MrBeast,Technoblade,1,direct_mention,True
+MrBeast,jake paul,1,direct_mention,True
+MrBeast,jschlatt,1,direct_mention,True
+MrBeast,LazarBeam,1,direct_mention,True
+Mark Rober,Veritasium,1,direct_mention,True
+Mark Rober,MrBeast,1,direct_mention,True
+Dream,MrBeast,1,direct_mention,True
+Dream,GeorgeNotFound,1,same_group,False
+Dream,Sapnap,1,same_group,False
+Dream,TommyInnit,1,same_group,False
+Dream,Wilbur Soot,1,same_group,False
+Dream,Quackity,1,same_group,False
+Dream,Technoblade,1,same_group,False
+GeorgeNotFound,MrBeast,1,direct_mention,True
+GeorgeNotFound,Dream,1,same_group,False
+GeorgeNotFound,Sapnap,1,same_group,False
+GeorgeNotFound,TommyInnit,1,same_group,False
+GeorgeNotFound,Wilbur Soot,1,same_group,False
+GeorgeNotFound,Quackity,1,same_group,False
+GeorgeNotFound,Technoblade,1,same_group,False
+Sapnap,MrBeast,1,direct_mention,True
+Sapnap,Dream,1,same_group,False
+Sapnap,GeorgeNotFound,1,same_group,False
+Sapnap,TommyInnit,1,same_group,False
+Sapnap,Wilbur Soot,1,same_group,False
+Sapnap,Quackity,1,same_group,False
+Sapnap,Technoblade,1,same_group,False
+TommyInnit,MrBeast,1,direct_mention,True
+TommyInnit,Dream,1,same_group,False
+TommyInnit,GeorgeNotFound,1,same_group,False
+TommyInnit,Sapnap,1,same_group,False
+TommyInnit,Wilbur Soot,1,same_group,False
+TommyInnit,Quackity,1,same_group,False
+TommyInnit,Technoblade,1,same_group,False
+Wilbur Soot,Dream,1,same_group,False
+Wilbur Soot,GeorgeNotFound,1,same_group,False
+Wilbur Soot,Sapnap,1,same_group,False
+Wilbur Soot,TommyInnit,1,same_group,False
+Wilbur Soot,Quackity,1,same_group,False
+Wilbur Soot,Technoblade,1,same_group,False
+Quackity,jschlatt,1,direct_mention,True
+Quackity,MrBeast,1,direct_mention,True
+Quackity,Dream,1,same_group,False
+Quackity,GeorgeNotFound,1,same_group,False
+Quackity,Sapnap,1,same_group,False
+Quackity,TommyInnit,1,same_group,False
+Quackity,Wilbur Soot,1,same_group,False
+Quackity,Technoblade,1,same_group,False
+jschlatt,Dream,1,direct_mention,True
+jschlatt,GeorgeNotFound,1,direct_mention,True
+jschlatt,Sapnap,1,direct_mention,True
+jschlatt,TommyInnit,1,direct_mention,True
+jschlatt,Wilbur Soot,1,direct_mention,True
+jschlatt,Quackity,1,direct_mention,True
+jschlatt,Technoblade,1,direct_mention,True
+jschlatt,MrBeast,1,direct_mention,True
+Technoblade,Niki Nihachu,1,direct_mention,True
+Technoblade,Dream,1,same_group,False
+Technoblade,GeorgeNotFound,1,same_group,False
+Technoblade,Sapnap,1,same_group,False
+Technoblade,TommyInnit,1,same_group,False
+Technoblade,Wilbur Soot,1,same_group,False
+Technoblade,Quackity,1,same_group,False
+LazarBeam,fresh,1,direct_mention,True
+LazarBeam,MrBeast,1,direct_mention,True
+fresh,LazarBeam,1,direct_mention,True
+Vikkstar123,MrBeast,1,direct_mention,True
+Vikkstar123,Miniminter,1,same_group,False
+Vikkstar123,KSI,1,same_group,False
+Vikkstar123,TBJZL,1,same_group,False
+Vikkstar123,Zerkaa,1,same_group,False
+Vikkstar123,Behzinga,1,same_group,False
+Vikkstar123,W2S,1,same_group,False
+Miniminter,MrBeast,1,direct_mention,True
+Miniminter,Vikkstar123,1,same_group,False
+Miniminter,KSI,1,same_group,False
+Miniminter,TBJZL,1,same_group,False
+Miniminter,Zerkaa,1,same_group,False
+Miniminter,Behzinga,1,same_group,False
+Miniminter,W2S,1,same_group,False
+KSI,jake paul,1,direct_mention,True
+KSI,MrBeast,1,direct_mention,True
+KSI,Vikkstar123,1,same_group,False
+KSI,Miniminter,1,same_group,False
+KSI,TBJZL,1,same_group,False
+KSI,Zerkaa,1,same_group,False
+KSI,Behzinga,1,same_group,False
+KSI,W2S,1,same_group,False
+TBJZL,MrBeast,1,direct_mention,True
+TBJZL,Vikkstar123,1,same_group,False
+TBJZL,Miniminter,1,same_group,False
+TBJZL,KSI,1,same_group,False
+TBJZL,Zerkaa,1,same_group,False
+TBJZL,Behzinga,1,same_group,False
+TBJZL,W2S,1,same_group,False
+Zerkaa,MrBeast,1,direct_mention,True
+Zerkaa,Vikkstar123,1,same_group,False
+Zerkaa,Miniminter,1,same_group,False
+Zerkaa,KSI,1,same_group,False
+Zerkaa,TBJZL,1,same_group,False
+Zerkaa,Behzinga,1,same_group,False
+Zerkaa,W2S,1,same_group,False
+Behzinga,MrBeast,1,direct_mention,True
+Behzinga,Vikkstar123,1,same_group,False
+Behzinga,Miniminter,1,same_group,False
+Behzinga,KSI,1,same_group,False
+Behzinga,TBJZL,1,same_group,False
+Behzinga,Zerkaa,1,same_group,False
+Behzinga,W2S,1,same_group,False
+W2S,MrBeast,1,direct_mention,True
+W2S,Vikkstar123,1,same_group,False
+W2S,Miniminter,1,same_group,False
+W2S,KSI,1,same_group,False
+W2S,TBJZL,1,same_group,False
+W2S,Zerkaa,1,same_group,False
+W2S,Behzinga,1,same_group,False
+Niki Nihachu,Technoblade,2,direct_mention,True
+Niki Nihachu,Dream,1,direct_mention,True
+Niki Nihachu,GeorgeNotFound,1,direct_mention,True
+Niki Nihachu,Sapnap,1,direct_mention,True
+Niki Nihachu,TommyInnit,1,direct_mention,True
+Niki Nihachu,Wilbur Soot,1,direct_mention,True
+Niki Nihachu,Quackity,1,direct_mention,True
+Niki Nihachu,MrBeast,1,direct_mention,True
+Karl,Dream,1,direct_mention,True
+Karl,MrBeast,1,direct_mention,True
+Valkyrae,jacksepticeye,1,direct_mention,True
+Valkyrae,Pokimane,1,direct_mention,True
+Valkyrae,Corpse Husband,1,direct_mention,True
+Valkyrae,Sykkuno,1,direct_mention,True
+Valkyrae,PewDiePie,1,direct_mention,True
+Valkyrae,MrBeast,1,direct_mention,True
+Valkyrae,Disguised Toast,1,direct_mention,True
+Sykkuno,Valkyrae,1,direct_mention,True
+Sykkuno,Corpse Husband,1,direct_mention,True
+LilyPichu,MrBeast,1,direct_mention,True
+LilyPichu,Pokimane,1,same_group,False
+LilyPichu,Disguised Toast,1,same_group,False
+LilyPichu,Michael Reeves,1,same_group,False
+Pokimane,MrBeast,1,direct_mention,True
+Pokimane,LilyPichu,1,same_group,False
+Pokimane,Disguised Toast,1,same_group,False
+Pokimane,Michael Reeves,1,same_group,False
+Disguised Toast,MrBeast,1,direct_mention,True
+Disguised Toast,LilyPichu,1,same_group,False
+Disguised Toast,Pokimane,1,same_group,False
+Disguised Toast,Michael Reeves,1,same_group,False
+Michael Reeves,MrBeast,1,direct_mention,True
+Michael Reeves,LilyPichu,1,same_group,False
+Michael Reeves,Pokimane,1,same_group,False
+Michael Reeves,Disguised Toast,1,same_group,False
+William Osman,jschlatt,1,direct_mention,True
+William Osman,Michael Reeves,1,direct_mention,True
+William Osman,MrBeast,1,direct_mention,True
+I did a thing,Veritasium,1,direct_mention,True
+I did a thing,Michael Reeves,1,direct_mention,True
+I did a thing,William Osman,1,direct_mention,True
+PewDiePie,jacksepticeye,1,direct_mention,True
+PewDiePie,Markiplier,1,direct_mention,True
+PewDiePie,MrBeast,1,direct_mention,True
+jacksepticeye,Markiplier,1,direct_mention,True
+jacksepticeye,Valkyrae,1,direct_mention,True
+jacksepticeye,Sykkuno,1,direct_mention,True
+jacksepticeye,PewDiePie,1,direct_mention,True
+Markiplier,jacksepticeye,1,direct_mention,True
+Markiplier,Valkyrae,1,direct_mention,True
+Markiplier,PewDiePie,1,direct_mention,True
+Liza Koshy,Lilly Singh,1,direct_mention,True
+Liza Koshy,David Dobrik,1,direct_mention,True
+David Dobrik,Jason Nash,1,direct_mention,True
+David Dobrik,Liza Koshy,1,direct_mention,True
+Lilly Singh,Markiplier,1,direct_mention,True
+Lilly Singh,shane,1,direct_mention,True
+Lilly Singh,Liza Koshy,1,direct_mention,True
+Jason Nash,blndsundoll4mj,1,direct_mention,True
+Jason Nash,David Dobrik,1,direct_mention,True
+blndsundoll4mj,Jason Nash,1,direct_mention,True
+blndsundoll4mj,shane,1,direct_mention,True
+shane,blndsundoll4mj,1,direct_mention,True
+shane,jeffreestar,1,direct_mention,True
+jeffreestar,James Charles,1,direct_mention,True
+jeffreestar,shane,1,direct_mention,True
+James Charles,Tati,1,direct_mention,True
+James Charles,jeffreestar,1,direct_mention,True
+James Charles,shane,1,direct_mention,True
+James Charles,PewDiePie,1,direct_mention,True
+Tati,James Charles,1,direct_mention,True
+Tati,jeffreestar,1,direct_mention,True
+emma chamberlain,James Charles,1,direct_mention,True
+emma chamberlain,Dolan Twins,1,direct_mention,True
+Dolan Twins,emma chamberlain,1,direct_mention,True
+Dolan Twins,James Charles,1,direct_mention,True
+Dolan Twins,shane,1,direct_mention,True
+Veritasium,Mark Rober,1,direct_mention,True
+jake paul,MrBeast,1,direct_mention,True
+jake paul,KSI,1,direct_mention,True
